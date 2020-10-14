@@ -9,8 +9,8 @@ const Store = () => {
         <Layout title="Store" description="This is the Store page" >
             <div >
                 <div className="text-center mt-5">
-                    <h1>Store</h1>
-                    <p>This is the Store Page.</p>
+                    <h1>Magic T-shirt</h1>
+                    <p>Welcome to Magic T-shirt store!</p>
                 </div>
                 <ProductsGrid/>
             </div>
